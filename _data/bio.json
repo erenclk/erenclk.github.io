@@ -2,7 +2,7 @@
   "basics": {
     "name": "Eren Çelik",
     "label": "Student",
-    "picture": "https://github.com/erenclk/erenclk.github.io/blob/master/images/eren.png",
+    "picture": "",
     "email": "celikere16@itu.edu.tr",
     "phone": "+905392135730",
     "website": "https://erenclk.github.io",
@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "34453",
-      "city": "İstanbul",
+      "city": "Sarıyer",
       "countryCode": "TR",
       "region": "İstanbul"
     },
@@ -26,9 +26,9 @@
         "url": "http://linkedin.com/in/erenclk"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
