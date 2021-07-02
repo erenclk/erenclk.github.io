@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Eren Çelik",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "celikere16@itu.edu.tr",
+    "phone": "+905392135730",
+    "website": "https://erenclk.github.io",
+    "summary": "I am studying for a Bc.S. in the Department of Manufacturing Engineering at the İstanbul Technical University. I am doing double major with Mechanical Engineering. I expect to graduate in Spring, 2022. I am very adaptable to new environments. I am always energetic and eager to learn new skills. I am able to handle multiple tasks on a daily basis and I use a creative approach to solve any given problem. Some of my greatest strengths are being great at tme management and my communicaton skills",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "34453",
+      "city": "İstanbul",
+      "countryCode": "TR",
+      "region": "İstanbul"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "erenclk",
+        "url": "http://github.com/erenclk"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "erenclk",
+        "url": "http://linkedin.com/in/erenclk"
       },
       {
         "network": "twitter",
@@ -32,8 +32,8 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "celik_eren",
+        "url": "http://instagram.com/celik_eren"
       }
     ]
   },
