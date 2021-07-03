@@ -8,9 +8,9 @@ permalink: projects/micromouse
 date: 2015-07-01
 labels:
   - Engineering
-  - Composite
-  - Wind Turbine
-summary: DEVELOPMENT OF CARBON-GLASS FIBER REINFORCED LAMINATED HYBRID COMPOSITES: APPLICATIONS IN OFFSHORE WIND TURBINE BLADES
+  - Composites
+  - Wind turbines
+summary: DEVELOPMENT OF CARBON-GLASS FIBER REINFORCED LAMINATED HYBRID COMPOSITES: APPLICATIONS IN OFFSHORE WIND TURBINE BLADES.
 ---
 
 <div class="ui small rounded images">
@@ -19,6 +19,7 @@ summary: DEVELOPMENT OF CARBON-GLASS FIBER REINFORCED LAMINATED HYBRID COMPOSITE
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
+
 
 You can reach the full thesis from [Research Gate Website](http://dx.doi.org/10.13140/RG.2.2.26843.08483).
 
