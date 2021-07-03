@@ -1,4 +1,5 @@
 {
+  "basics": {
    "basics": {
     "name": "Eren Çelik",
     "label": "Student",
@@ -13,7 +14,7 @@
      "city": "Sarıyer",
      "countryCode": "TR",
      "region": "İstanbul"
-     },
+    },
     "profiles": [
       {
         "network": "github",
@@ -30,8 +31,9 @@
         "username": "celik_eren",
         "url": "http://instagram.com/celik_eren"
       }
-    ],
-   "skills": [
+    ]
+  },
+  "skills": [
     {
       "name": "Advanced",
       "level": "",
@@ -63,7 +65,7 @@
     }
   ],
   "education": [
-    {
+     {
       "institution": "Istanbul Technical University, Istanbul, TR",
       "area": "Manufacturing Engineering (expected Spring, 2022)",
       "studyType": "B.S.",
@@ -89,11 +91,12 @@
       "endDate": "2020-01-01",
       "summary": "Part-tme student assstant at technal drawng courses",
     }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
-}
+}   
+   
+   
+   
+   
+   
+   
+   
