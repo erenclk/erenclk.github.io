@@ -91,6 +91,16 @@
       "endDate": "2020-01-01",
       "summary": "Part-tme student assstant at technal drawng courses",
     }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Pre-intermediate"
+    }
   ]
 }   
    
