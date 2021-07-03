@@ -16,3 +16,4 @@ summary: To design the gear box with all its components with assembled final pro
 
 
 
+<p> <a href="../images/gearboxproject.pdf" download=>Click on</a> to download it:<p>
