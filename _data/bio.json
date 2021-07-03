@@ -35,26 +35,32 @@
   },
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "ADVANCED",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "MS Office",
+        "SolidWorks",
+        "Autocad",
+        "Matlab",
+        "Ansys"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "INTERMEDIATE",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Abaqus",
+        "Python",
+        "C"
+      ]
+    },
+    {
+      "name": "BEGINNER",
+      "level": "",
+      "keywords": [
+        "Hypermesh",
+        "MoldFlow",
+        "Catia"
       ]
     }
   ],
