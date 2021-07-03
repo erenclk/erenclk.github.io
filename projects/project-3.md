@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton Candy Benim Olacak Sende Kendine bunu hazır etsen iyi olur ben çok güzelim iyi geceler sana aşko
+title: Two Stage Gear-Box
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313. Cotton Candy Benim Olacak Sende Kendine bunu hazır etsen iyi olur ben çok güzelim iyi geceler sana aşko Cotton Candy Benim Olacak Sende Kendine bunu hazır etsen iyi olur ben çok güzelim iyi geceler sana aşko
+summary: Two Stage Gear-box
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
