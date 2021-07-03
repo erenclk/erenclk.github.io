@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Graduation Thesis
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
@@ -10,7 +10,7 @@ labels:
   - Engineering
   - Composite
   - Wind Turbine
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: DEVELOPMENT OF CARBON-GLASS FIBER REINFORCED LAMINATED HYBRID COMPOSITES: APPLICATIONS IN OFFSHORE WIND TURBINE BLADES
 ---
 
 <div class="ui small rounded images">
