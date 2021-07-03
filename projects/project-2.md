@@ -10,7 +10,7 @@ labels:
   - Protein
   - Thermodynamic
   - Biomolecular
-summary: Protein simulation for Thermodynamics of Biomolecular Systems Project
+summary: Protein simulation project for Thermodynamics of Biomolecular Systems
 ---
 
 <img class="ui medium right floated rounded image" src="../images/betahareket.jpg">
