@@ -9,8 +9,7 @@ labels:
   - Engineering
   - Composites
   - Wind turbines
-summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composites
+summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/blade.jpg>
-</div>
+
+MERHABA
