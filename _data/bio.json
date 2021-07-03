@@ -31,7 +31,7 @@
         "url": "http://instagram.com/celik_eren"
       }
     ],
-  "skills": [
+   "skills": [
     {
       "name": "Advanced",
       "level": "",
@@ -70,8 +70,6 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.40",
-      "courses": [
-      ]
     },
     {
       "institution": "Istanbul Technical University, Istanbul, TR",
@@ -80,8 +78,6 @@
       "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "3.37",
-      "courses": [
-      ]
     }
   ],
   "work": [
