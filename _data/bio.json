@@ -1,112 +1,169 @@
 {
   "basics": {
-   "basics": {
-    "name": "Eren Çelik",
+    "name": "Molly Maluhia",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "celikere16@itu.edu.tr",
-    "phone": "+905392135730",
-    "website": "https://erenclk.github.io",
-    "summary": "I am studying for a Bc.S. in the Department of Manufacturing Engineering at the İstanbul Technical University. I am doing double major with Mechanical Engineering. I expect to graduate in Spring, 2022. I am very adaptable to new environments. I am always energetic and eager to learn new skills. I am able to handle multiple tasks on a daily basis and I use a creative approach to solve any given problem. Some of my greatest strengths are being great at time management and my communicaton skills.",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-     "address": "",
-     "postalCode": "34453",
-     "city": "Sarıyer",
-     "countryCode": "TR",
-     "region": "İstanbul"
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "erenclk",
-        "url": "http://github.com/erenclk"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "erenclk",
-        "url": "http://linkedin.com/in/erenclk"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "celik_eren",
-        "url": "http://instagram.com/celik_eren"
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
+  "interests": [
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+  ],
   "skills": [
     {
-      "name": "Advanced",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "MS Office",
-        "SolidWorks",
-        "Autocad",
-        "Matlab",
-        "Ansys",
-       ]
-    },
-    {
-      "name": "Intermediate",
-      "level": "",
-      "keywords": [
-        "Abaqus",
-        "Python",
         "C",
-       ]
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
     },
     {
-      "name": "Beginner",
+      "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Hypermesh",
-        "MoldFlows",
-        "Cata",
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
-     {
-      "institution": "Istanbul Technical University, Istanbul, TR",
-      "area": "Manufacturing Engineering (expected Spring, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2016-09-01",
-      "endDate": "Present",
-      "gpa": "3.40",
-    },
     {
-      "institution": "Istanbul Technical University, Istanbul, TR",
-      "area": "Mechanical Engineering (expected Spring, 2022)",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2018-09-01",
+      "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "3.37",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "Istanbul Technical University",
-      "position": "Part-time Student Assistant",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2018-10-01",
-      "endDate": "2020-01-01",
-      "summary": "Part-tme student assstant at technal drawng courses",
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Advanced"
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      ]
     },
     {
-      "language": "Italian",
-      "fluency": "Pre-intermediate"
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
-}   
-   
-   
-   
-   
-   
-   
-   
+}
