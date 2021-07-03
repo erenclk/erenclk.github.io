@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/proteinyapisi.jpeg
-title: "Simulation of &beta;-Cinnamomin After Sterol Removal."
+title: "Simulation of &beta;-Cinnamomin After Sterol Removal"
 permalink: projects/protein
 # All dates must be YYYY-MM-DD format!
 date: 2021-06-15
