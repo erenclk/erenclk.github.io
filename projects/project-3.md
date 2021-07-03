@@ -19,7 +19,7 @@ summary: To design the gear box with all its components with assembled final pro
 assembled product and Drawings and Presentable Rendering.
 
 
-<embed src="../images/montaj.pdf" width="800px" height="2100px" />
+<embed src="../images/montaj.pdf" width="800px" height="500px" />
 
 
 
