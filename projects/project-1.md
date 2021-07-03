@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wing.JPG
+image: images/blade.jpg
 title: Thesis
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
