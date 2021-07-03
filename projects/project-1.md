@@ -14,7 +14,7 @@ summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composit
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/wing.JPG">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
