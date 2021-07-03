@@ -9,7 +9,7 @@ date: 2015-07-01
 labels:
   - Engineering
   - Composites
-  - Wind turbine blades
+  - Wind turbines
 summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composites.
 ---
 
