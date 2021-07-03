@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/wing.JPG
-title: Graduation Thesis
+title: Thesis
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
