@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/wing.JPG
-title: "Develepoment of Carbon-Glass Fiber Reinforced Laminated Composites: Applications In Offshore Winf Turbine Blades"
+title: "Develepoment of Carbon-Glass Fiber Reinforced Laminated Composites: Applications In Offshore Wind Turbine Blades"
 permalink: projects/thesis
 # All dates must be YYYY-MM-DD format!
 date: 2021-06-20
