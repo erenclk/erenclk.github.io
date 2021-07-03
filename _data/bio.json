@@ -69,7 +69,7 @@
       "institution": "Istanbul Technical University, Istanbul, TR",
       "area": "Manufacturing Engineering (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.40",
       "courses": [
@@ -79,7 +79,7 @@
       "institution": "Istanbul Technical University, Istanbul, TR",
       "area": "Mechanical Engineering (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "3.37",
       "courses": [
@@ -91,12 +91,10 @@
       "company": "Istanbul Technical University",
       "position": "Part-time Student Assistant",
       "website": "",
-      "startDate": "Oct 2018",
-      "endDate": "Jan 2020",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2018-10-01",
+      "endDate": "2020-01-01",
+      "summary": "Part-tme student assstant at technal drawng courses",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     }
   ],
