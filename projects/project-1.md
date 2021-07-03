@@ -9,7 +9,7 @@ date: 2021-06-20
 labels:
   - Wind turbines
   - Composites
-summary: Develepoment of carbon-glass fiber reinforced laminated composites: Applications
+summary: "Develepoment of carbon-glass fiber reinforced laminated composites: Applications"
 ---
 
 <b>DEVELOPMENT OF CARBON-GLASS FIBER REINFORCED LAMINATED HYBRID COMPOSITES: APPLICATIONS IN OFFSHORE WIND TURBINE BLADES</b>
