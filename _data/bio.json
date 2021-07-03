@@ -1,5 +1,5 @@
 {
-  "basics": {
+   "basics": {
     "name": "Eren Çelik",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
@@ -8,12 +8,12 @@
     "website": "https://erenclk.github.io",
     "summary": "I am studying for a Bc.S. in the Department of Manufacturing Engineering at the İstanbul Technical University. I am doing double major with Mechanical Engineering. I expect to graduate in Spring, 2022. I am very adaptable to new environments. I am always energetic and eager to learn new skills. I am able to handle multiple tasks on a daily basis and I use a creative approach to solve any given problem. Some of my greatest strengths are being great at time management and my communicaton skills.",
     "location": {
-      "address": "",
-      "postalCode": "34453",
-      "city": "Sarıyer",
-      "countryCode": "TR",
-      "region": "İstanbul"
-    },
+     "address": "",
+     "postalCode": "34453",
+     "city": "Sarıyer",
+     "countryCode": "TR",
+     "region": "İstanbul"
+     },
     "profiles": [
       {
         "network": "github",
@@ -41,7 +41,7 @@
         "Autocad",
         "Matlab",
         "Ansys",
-      ]
+       ]
     },
     {
       "name": "Intermediate",
@@ -50,7 +50,7 @@
         "Abaqus",
         "Python",
         "C",
-      ]
+       ]
     },
     {
       "name": "Beginner",
@@ -88,8 +88,6 @@
       "startDate": "2018-10-01",
       "endDate": "2020-01-01",
       "summary": "Part-tme student assstant at technal drawng courses",
-      "highlights": [
-      ]
     }
   ],
   "references": [
