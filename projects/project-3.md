@@ -19,9 +19,15 @@ summary: To design the gear box with all its components with assembled final pro
 assembled product and Drawings and Presentable Rendering.
 
 
+Tehnical drawing of gear-box
 <embed src="../images/montaj.pdf" width="800px" height="500px" />
 
 
 
 <p> <a href="../images/gearboxproject.pdf" download>Click on</a> to download it.<p>
 
+
+  
+  
+  
+  
