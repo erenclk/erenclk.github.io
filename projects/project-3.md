@@ -19,10 +19,8 @@ summary: To design the gear box with all its components with assembled final pro
 assembled product and Drawings and Presentable Rendering.
 
 
-<embed src="montaj.pdf" width="800px" height="2100px" />
+<embed src="../images/montaj.pdf" width="800px" height="2100px" />
 
-
-<iframe src="montaj.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
 
 
 <p> <a href="../images/gearboxproject.pdf" download>Click on</a> to download it.<p>
