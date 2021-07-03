@@ -84,6 +84,22 @@
       "summary": "Part-time student assistant at technical drawing courses",
     }
   ],
+  "publications": [
+    {
+      "name": "CONFERENCE PAPER:",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Development of tensile strength and impact resistance of carbon-glass fiber reinforced hybrid composites: Applications in offshore wind turbine blades (2021)"
+    },
+    {
+      "name": "GRADUATION THESIS PROJECT:",
+      "publisher": "Hooli",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Offshore Wnd Turbne Blade Materal Desgn and Development (2021))"
+    }
+  ],
   "languages": [
     {
       "language": "English",
