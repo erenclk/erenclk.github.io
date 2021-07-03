@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Graduation Design Project
+title: Graduation Thesis
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
@@ -10,7 +10,7 @@ labels:
   - Engineering
   - Composites
   - Wind turbine blades
-summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composite: Apllications In Offshore Wind Turbine Blades.
+summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composites.
 ---
 
 <div class="ui small rounded images">
