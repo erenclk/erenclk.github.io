@@ -7,10 +7,10 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Engineering
-  - Composites
-  - Wind turbines
-summary: DEVELOPMENT OF CARBON-GLASS FIBER REINFORCED LAMINATED HYBRID COMPOSITES: APPLICATIONS IN OFFSHORE WIND TURBINE BLADES.
+  - Robotics
+  - Arduino
+  - C++
+summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
