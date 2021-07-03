@@ -10,8 +10,7 @@ labels:
   - Engineering
   - Composites
   - Wind turbines
-summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composites: Applications in Wind Turbine Blades
----
+summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composites
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/blade.jpg>
