@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: DEVELOPMENT OF CARBON-GLASS FIBER REINFORCED LAMINATED HYBRID COMPOSITES: APPLICATIONS IN OFFSHORE WIND TURBINE BLADES
+title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2021-06-20
+date: 2015-07-01
 labels:
   - Robotics
   - Arduino
