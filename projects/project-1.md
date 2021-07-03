@@ -10,7 +10,7 @@ labels:
   - Engineering
   - Composites
   - Wind turbine blades
-summary: Develepoment of.
+summary: Develepoment of Carbon-Glass Fiber Reinforced Laminated Hybrid Composite: Apllications In Offshore Wind Turbine Blades.
 ---
 
 <div class="ui small rounded images">
