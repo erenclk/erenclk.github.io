@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Cotton Candy Benim Olacak Sende Kendine bunu hazır etsen iyi olur ben çok güzelim iyi geceler sana aşko
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
