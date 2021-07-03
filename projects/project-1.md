@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/wing.JPG
 title: Thesis
-permalink: projects/micromouse
-date: 2015-07-01
+permalink: projects/thesis
+date: 2020-06-20
 labels:
   - Engineering
   - Composites
