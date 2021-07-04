@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kavramakare.png
+image: images/kavramakare.jpg
 title: Multi-Plate Clutch
 permalink: projects/clutch
 # All dates must be YYYY-MM-DD format!
