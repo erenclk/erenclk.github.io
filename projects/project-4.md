@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ec.jpg
+image: images/isi.jpg
 title: Design of a Cold Storage Warehouse
 permalink: projects/gearbox
 # All dates must be YYYY-MM-DD format!
