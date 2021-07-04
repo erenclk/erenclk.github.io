@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/isi.jpg
-title: Design of a Cold Storage Warehouse
-permalink: projects/gearbox
+title: Cold Storage Warehouse
+permalink: projects/coldstorage
 # All dates must be YYYY-MM-DD format!
 date: 2021-06-10
 labels:
