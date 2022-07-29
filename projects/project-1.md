@@ -2,16 +2,18 @@
 layout: project
 type: project
 image: images/wing.JPG
-title: "Develepoment of Carbon-Glass Fiber Reinforced Laminated Composites: Applications In Offshore Wind Turbine Blades"
-permalink: projects/thesis
+title: "Design and Shape Optimization of a Convergent-Divergent Flexible Plate Nozzle"
+permalink: projects/thesis2
 # All dates must be YYYY-MM-DD format!
-date: 2021-06-20
+date: 2022-06-20
 labels:
-  - Wind turbines
-  - Composites
-summary: B.Sc. Thesis for Manufacturing Engineering
+  - Wind tunnels
+  - Computaional fluid dynamics
+  - Optimization
+summary: B.Sc. Thesis for Mechanical Engineering
 ---
 
-This study aims to improve a composite material to be used in the manufacture of wind turbine blades. In this regard, reinforcements were used to improve the impact resistance, fracture toughness, and wear resistance of the developed composites. Accordingly, epoxy-based carbon–glass fiber reinforced composites are produced by using micro silicon carbide (SiC) particles as a secondary reinforcement. In addition to experimental studies such as impact resistance and fracture toughness tests and practical numerical studies were performed to verify the experimental results. With this study, it was intended to examine the effects of reinforcements on mechanical properties, and to determine an optimal composition to achieve these properties. For offshore wind turbine blades, blade airfoil geometry was determined and the blade was modeled with a 3D modeling tool. Based on this modeling, firstly the wind load is calculated by Computational Fluid Dynamics (CFD) analysis. Then, using the calculated wind load, the stress and deformation on the wind turbine blades are determined by structural analysis. The material modeling of the composites to be manufactured is performed. After manufacturing of composites, experimental characterization is performed. Then, optimization of turbine blade is made. At the end of the study, experimental data are compared with numerical results for validation.
+The importance of the accuracy of the experimental environment is obvious for experimental flow conditions that are difficult to obtain. Wind tunnels are used to accomplish these conditions for such experiments. Wind tunnels can be classified as fixed and variable geometry nozzle. Since more than one fixed-geometry nozzle will be required to different high Mach numbers, the convenience of using variable-geometry nozzles in this area is obvious. However, calculating the number of actuators that will need to be used in the flexible wall nozzles that come with these conveniences and obtaining the correct shape curve is a problem. This project aims to create a reliable and accurate shape optimization for flexible plate nozzles used in supersonic wind tunnels. In order for this project to be reliable, the optimized nozzles must be shock-free, have uniform flow, and have a low standard deviation of exit Mach. There are several well established albeit time-consuming and imprecise methods for shape optimization of a supersonic nozzles. Other more recently developed methods require high computational capacity and are highly dependent on the ability of the operating analyst. 
 
-You can learn more at the [ResearchGate Website](https://www.researchgate.net/publication/352902062_DEVELOPMENT_OF_CARBON-GLASS_FIBER_REINFORCED_LAMINATED_HYBRID_COMPOSITES_APPLICATIONS_IN_OFFSHORE_WIND_TURBINE_BLADES).
+For this optimization study, firstly, Method of Characteristics (MOC) and Sivells geometries were obtained for certain Mach numbers. The boundary conditions were determined and flow calculations using one dimensional isentropic flow equations were peformed. Two-dimensional Computational Fluid Dynamics (CFD) analysis were then performed on the obtained geometries. Following the analysis the uniformity and Mach number of the output flow were checked. Optimization studies were carried out with the selected optimization methods. The optimized nozzle geometry was compared for the different methods, the optimum result was used to run a 3D analysis. The forces acting on the nozzle wall were obtained. Using these forces a structural analysis to find reaction forces acting on the actuators was performed. An optimization to limit forces acting on the actuators was carried out. A 3D design of the nozzle was constructed and technical drawings were obtained. A cost analysis for the construction of the entire nozzle set-up was performed. 
+
