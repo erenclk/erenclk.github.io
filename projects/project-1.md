@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wing.JPG
+image: images/windtunnel.PNG
 title: "Design and Shape Optimization of a Convergent-Divergent Flexible Plate Nozzle"
 permalink: projects/thesis2
 # All dates must be YYYY-MM-DD format!
