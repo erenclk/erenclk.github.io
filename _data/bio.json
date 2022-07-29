@@ -60,27 +60,26 @@
       "level": "",
       "keywords": [
         "Hypermesh",
-        "MoldFlow",
-        "Catia"
+        "MoldFlow"
       ]
     }
   ],
   "education": [
     {
       "institution": "Istanbul Technical University, Istanbul, TR",
-      "area": "Manufacturing Engineering (expected Spring, 2022)",
+      "area": "Manufacturing Engineering",
       "studyType": "Bc.S.",
       "startDate": "2016-09-01",
-      "endDate": "Present",
-      "gpa": "3.40",
+      "endDate": "2022-07-28",
+      "gpa": "3.47",
     },
     {
       "institution": "Istanbul Technical University, Istanbul, TR",
-      "area": "Mechanical Engineering (expected Spring, 2022)",
+      "area": "Mechanical Engineering",
       "studyType": "Bc.S.",
       "startDate": "2018-09-01",
-      "endDate": "Present",
-      "gpa": "3.37",
+      "endDate": "2022-07-28",
+      "gpa": "3.47",
     }
   ],
   "work": [
@@ -90,6 +89,20 @@
       "startDate": "2018-10-01",
       "endDate": "2020-01-01",
       "summary": "Part-time student assistant at technical drawing courses",
+    },
+    {
+      "company": "Tekno Kaucuk Sanayii AS",
+      "position": "R&D Intern",
+      "startDate": "2021-07-01",
+      "endDate": "2021-09-01",
+      "summary": "Shock and vibration analysis for defence industry (Using Adams View). Rubber and wirerope shock mount selection according to technical needs",
+    },
+    {
+      "company": "Arçelik AS",
+      "position": "Project Assistant",
+      "startDate": "2022-02-08",
+      "endDate": "2022-05-31",
+      "summary": "Project Assistant at Department of Central Energy Management",
     }
   ],
   "publications": [
@@ -99,11 +112,11 @@
     },
     {
       "name": "GRADUATION THESIS PROJECT:",
-      "summary": "Develepoment of Carbon-Glass Fiber Reinforced Laminated Composites: Applications In Offshore Wind Turbine Blades (2021))"
+      "summary": "Develepoment of Carbon-Glass Fiber Reinforced Laminated Composites: Applications In Offshore Wind Turbine Blades (2021)"
     },
     {
       "name": "GRADUATION THESIS PROJECT:",
-      "summary": "Design and Shape Optimization of a Convergent-Divergent Flexible Plate Nozzle (2022))"
+      "summary": "Design and Shape Optimization of a Convergent-Divergent Flexible Plate Nozzle (2022)"
     }
   ],
   "languages": [
