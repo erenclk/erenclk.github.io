@@ -14,14 +14,27 @@ summary: Designed a 100-ton cold storage facility with optimized heat load calcu
 ---
 
 Designed the thermal system of a cold storage facility capable of storing 100 tons of small fish for 4–10 days with minimum operating cost. Evaluated Ordu as a potential transit hub for fish logistics to major consumption centers. Performed heat load calculations based on building envelope properties, storage capacity, and daily product intake, selected refrigeration equipment, and developed layout and storage area design. Prepared technical drawings and conducted operating and investment cost analyses.
+<br>
+<br>
 
 Tehnical drawing of cold storage:
 <embed src="../images/coldstorage.pdf" width="800px" height="500px" />
+<br>
+<br>
 
 <p> <a href="../images/heatproject.pdf" download>Click on</a> to download project report.<p>
 
 
-  
+  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
   
   
   
