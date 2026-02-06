@@ -10,7 +10,7 @@ labels:
   - Wind tunnels
   - Computaional fluid dynamics
   - Optimization
-summary: B.Sc. Thesis for Mechanical Engineering
+summary: B.Sc. Thesis for Mechanical Engineering. Designed and optimized a variable-geometry supersonic nozzle using Method of Characteristics and CFD. Analyzed flow uniformity, shock-free performance, actuator loads, and structural response, and delivered the final 3D design, technical drawings, and cost analysis.
 ---
 
 The importance of the accuracy of the experimental environment is obvious for experimental flow conditions that are difficult to obtain. Wind tunnels are used to accomplish these conditions for such experiments. Wind tunnels can be classified as fixed and variable geometry nozzle. Since more than one fixed-geometry nozzle will be required to different high Mach numbers, the convenience of using variable-geometry nozzles in this area is obvious. However, calculating the number of actuators that will need to be used in the flexible wall nozzles that come with these conveniences and obtaining the correct shape curve is a problem. This project aims to create a reliable and accurate shape optimization for flexible plate nozzles used in supersonic wind tunnels. In order for this project to be reliable, the optimized nozzles must be shock-free, have uniform flow, and have a low standard deviation of exit Mach. There are several well established albeit time-consuming and imprecise methods for shape optimization of a supersonic nozzles. Other more recently developed methods require high computational capacity and are highly dependent on the ability of the operating analyst. 
