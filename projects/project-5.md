@@ -18,7 +18,7 @@ Designed the thermal system of a cold storage facility capable of storing 100 to
 Tehnical drawing of cold storage
 <embed src="../images/coldstorage.pdf" width="800px" height="500px" />
 
-<p> <a href="../images/heatproject.pdf" download>Click on</a> to download it.<p>
+<p> <a href="../images/heatproject.pdf" download>Click on</a> to download project report.<p>
 
 
   
