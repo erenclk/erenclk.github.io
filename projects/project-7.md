@@ -24,7 +24,7 @@ Tehnical drawing of cart rower
 
 
 
-<p> <a href="../images/clutchreport.pdf" download>Click on</a> to download it.<p>
+<p> <a href="../images/clutchreport.pdf" download>Click on</a> to download project report.<p>
 
 
   
