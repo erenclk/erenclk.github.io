@@ -14,20 +14,16 @@ summary: Developed an improved design approach for a cart rower by defining desi
 
 Developed a structured design approach for a cart rower by defining relevant engineering standards, conducting brainstorming and concept development, and analyzing existing designs. Proposed a primary design solution along with alternative concepts and established a detailed project timeline to support systematic development and implementation.
 
-<br><br>
-
+<br>
 
 <img class src="../images/cartrower.JPG" width="800px" height="500px" >
 
-<br>
 <br>
 
 Technical drawing of cart rower:
 <embed src="../images/cartrowermontaj.PDF" width="800px" height="500px" />
 
 <br>
-<br>
-
 
 <p> <a href="../images/cartrowerreport.pdf" download>Click on</a> to download project report.<p>
 
@@ -36,7 +32,25 @@ Technical drawing of cart rower:
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
   
   
