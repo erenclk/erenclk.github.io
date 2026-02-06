@@ -23,17 +23,9 @@ Tehnical drawing of gear-box:
 
 <p> <a href="../images/gearboxproject.pdf" download>Click on</a> to download project report.<p>
 
+&nbsp
+&nbsp
+&nbsp
+&nbsp
 
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
+&nbsp
