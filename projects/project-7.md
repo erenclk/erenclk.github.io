@@ -16,7 +16,7 @@ Designed a mechanically actuated multi-plate clutch capable of transmitting 820 
 
 <br>
 
-<img class src="../images/kavrama.PNG" width="800px" height="500px">
+<img class src="../images/kavrama.JPG" width="800px" height="500px">
 
 <br>
 
