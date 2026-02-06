@@ -17,13 +17,13 @@ Developed a structured design approach for a cart rower by defining relevant eng
 <br><br>
 
 
-<img class src="../images/cartrower.JPG">
+<img class src="../images/cartrower.JPG" width="800px" height="500px" >
 
 <br>
 <br>
 
 Technical drawing of cart rower:
-<embed src="../images/cartrowermontaj.pdf" width="800px" height="500px" />
+<embed src="../images/cartrowermontaj.PDF" width="800px" height="500px" />
 
 <br>
 <br>
