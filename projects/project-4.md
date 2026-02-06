@@ -10,13 +10,10 @@ labels:
   - Gear-box
   - Machine elements
   - Design
-summary: To design the gear box with all its components with assembled final product and with including Drawings.
+summary: Designed a two-stage gearbox with a bevel gear first stage and a helical gear second stage. Performed gear, shaft, and bearing calculations with a target bearing life of 15,000 hours, and prepared detailed assembly, sectional, and manufacturing drawings including the output shaft.
 ---
 
-<b>Aim:</b>-To design the gear box with all its components with assembled final product and with including Drawings.
-
-<b>Result:</b>-A complete Two Stage Gear Box was designed including the
-assembled product and Drawings and Presentable Rendering.
+Designed and engineered a two-stage gearbox consisting of a bevel gear first stage and a helical gear second stage. Performed complete gearbox calculations including gear sizing, shaft design, and bearing selection based on a required bearing life of 15,000 hours. Developed detailed assembly and sectional drawings in the plane of the input and output shafts, along with side views and partial sections where required. Applied manufacturing tolerances and machining symbols according to technical drawing standards. Prepared a full production drawing of the gearbox output shaft suitable for manufacturing.
 
 
 Tehnical drawing of gear-box
