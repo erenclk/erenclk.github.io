@@ -10,7 +10,7 @@ labels:
   - Protein
   - Thermodynamic
   - Biomolecular
-summary: Protein simulation project for Thermodynamics of Biomolecular Systems
+summary: Protein simulation project for Thermodynamics of Biomolecular Systems. Performed molecular dynamics simulations of Protein 2A8F using VMD and NAMD at 300 K and 400 K. Analyzed RMSD and thermodynamic properties to identify mobile regions of the protein.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/betahareket.jpg">
