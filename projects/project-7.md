@@ -15,7 +15,7 @@ summary: Designed a mechanically actuated multi-plate clutch with a torque capac
 Designed a mechanically actuated multi-plate clutch capable of transmitting 820 Nm of torque. Carried out all required design calculations, including torque capacity, friction surfaces, contact pressure, and actuation forces. Developed complete technical documentation with detailed views, sectional and partial sectional drawings to fully represent the clutch assembly. Prepared a manufacturing-ready technical drawing of the inner hub, including tolerances and machining details.
 
 
-<img class src="../images/kavrama.JPG" width="400px" height="250px">
+<img class src="../images/kavrama.JPG" width="800px" height="500px">
 
 
 
