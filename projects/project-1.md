@@ -15,3 +15,6 @@ summary: B.Sc. Thesis for Mechanical Engineering. Designed and optimized a varia
 
 Conducted the design and shape optimization of a variable-geometry convergent–divergent flexible plate nozzle for supersonic wind tunnel applications. Developed initial nozzle geometries using the Method of Characteristics (MOC) and Sivells methods, supported by one-dimensional isentropic flow calculations. Performed two-dimensional CFD analyses to evaluate shock-free operation, flow uniformity, and exit Mach number distribution, followed by comparative optimization studies. Extended the optimal geometry to three-dimensional CFD analysis and conducted structural analyses to determine wall loads and actuator reaction forces. Optimized the design to reduce actuator loads, produced full 3D CAD models and technical drawings, and completed a cost analysis for the complete nozzle system.
 
+You can learn more at the [ResearchGate Website]([https://www.researchgate.net/publication/352902062_DEVELOPMENT_OF_CARBON-GLASS_FIBER_REINFORCED_LAMINATED_HYBRID_COMPOSITES_APPLICATIONS_IN_OFFSHORE_WIND_TURBINE_BLADES](https://www.researchgate.net/publication/400536029_Design_and_Shape_Optimization_of_a_Convergent-Divergent_Flexible_Plate_Nozzle)).
+
+
