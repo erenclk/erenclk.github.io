@@ -23,7 +23,7 @@ Designed a mechanically actuated multi-plate clutch capable of transmitting 820 
 <br>
 
 
-Tehnical drawing of cart rower:
+Tehnical drawing of cluch assembly:
 <embed src="../images/kavramamontaj.pdf" width="800px" height="500px" />
 
 <br>
