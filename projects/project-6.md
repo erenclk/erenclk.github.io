@@ -20,8 +20,7 @@ Tehnical drawing of cart rower
 <embed src="../images/cartrowermontaj.pdf" width="800px" height="500px" />
 
 
-
-<p> <a href="../images/cartrowerreport.pdf" download>Click on</a> to download it.<p>
+<p> <a href="../images/cartrowerreport.pdf" download>Click on</a> to download project report.<p>
 
 
   
