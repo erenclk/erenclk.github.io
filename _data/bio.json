@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Eren Çelik",
-    "label": "Student",
+    "label": "Mechanical Engineer",
     "picture": "https://raw.githubusercontent.com/erenclk/erenclk.github.io/e67297c9fec740250677cbf3243cf3981b2d1856/images/cover.svg",
     "email": "celikere16@itu.edu.tr",
     "phone": "+905392135730",
